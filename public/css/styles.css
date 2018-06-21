@@ -1,0 +1,33 @@
+.btn-h1-spacing {
+	margin-top: 18px;
+}
+
+.form-spacing-top {
+	margin-top: 30px;
+}
+
+.jumbotron h1 {
+	color:#03460B;
+}
+
+#bttop{
+	height: 45px;
+	width: 45px;
+	border:1px solid #4adcff;
+	background:#24bde2;
+	text-align:center;
+	padding:5px 15px;
+	position:fixed;
+	bottom:35px;
+	right:20px;
+	cursor:pointer;
+	display:none;
+	color:#fff;
+	font-size:20px;
+	font-weight:900;
+	border-radius: 100%;
+}
+#bttop:hover{
+	border:1px solid #ffa789;
+	background:#ff6734
+}
